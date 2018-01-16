@@ -2,6 +2,13 @@
 
 > A Vue.js project using News API 
 
+
+## Screenshots
+
+
+<img src="hhttps://github.com/medinacharlesdan/Vue-News/blob/master/Screenshot1.png"> 
+<img src="https://github.com/medinacharlesdan/Vue-News/blob/master/Screenshot2.jpg" >
+
 ## Build Setup
 
 ``` bash
